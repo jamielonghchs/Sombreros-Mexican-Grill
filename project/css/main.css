@@ -1,0 +1,208 @@
+/**********************************
+GENERAL
+***********************************/
+body {
+font-family: 'Open Sans', sans-serif;
+}
+#wrapper {
+max-width: 10000px;
+margin: 0 auto;
+}
+a {
+text-decoration: none;
+}
+img {
+max-width: 100%;
+}
+/**********************************
+HEADING
+***********************************/
+#logo {
+text-align: left;
+margin: 0;
+}
+h1 {
+  font-family: 'Open Sans 800', sans-serif;
+  padding-left: 30px;
+  padding-right: 5px;
+  font-size: 36px;
+  line-height: 1em;
+  margin: 0px 0;
+  font-weight: 800
+}
+h2 {
+  font-family: 'Open Sans 800', sans-serif;
+  padding-left: 30px;
+  padding-right: 5px;
+  margin: 0px 0;
+  font-size: 36px;
+  line-height: 1em;
+  text-height: 0;
+  font-weight: 800
+  
+  
+  
+
+}
+/**********************************
+NAVIGATION
+***********************************/
+nav {
+text-align: center;
+padding: 10px 0;
+margin: 20px 0 0;
+background: #111
+}
+
+nav ul {
+  list-style: 800;
+  margin: 0 10px;
+  padding: 0px;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 700;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+/**********************************
+FOOTER
+***********************************/
+footer {
+ text-align: center;
+ padding-top: 10px; 
+ background: #000000;
+ border-color: #000000;
+}
+
+.social-icon {
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+}
+/**********************************
+PAGE: HOME Img
+***********************************/
+.First-img {
+  width: 219px;
+  min-height: 100px;
+}
+.SectionImg {
+  width: 10000px;
+  height: 150px;
+  
+}
+/**********************************
+PAGE: About
+***********************************/
+
+
+
+
+
+
+
+/**********************************
+COLORS
+***********************************/
+/* site body */
+body {
+background-color: #fff;
+color: white;
+}
+/* black header */
+header {
+background: #000000;
+border-color: #000000;
+}
+/* nav background on mobile */
+nav {
+background: #111;
+}
+/* logo text */
+h1, h2 {
+color: #fff;
+}
+/* links */
+a {
+color: #ff0000;
+}
+/* nav link */
+nav a, nav a:visited {
+color: #fff;
+}
+/* selected nav link */
+nav a.selected, nav a:hover {
+background-color: #ff0000;
+}
+/**********************************
+TEXT
+***********************************/
+.Text1 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: Center;
+  color: #B22222;
+  font-size: 26px;
+  font-weight: 700;
+}
+.Text2 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: Center;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 400;
+}
+.Text3 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: Center;
+  color: #555555;
+  font-size: 16px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.Logo {
+  font-size: 40px;
+}
+/**********************************
+Menus img
+***********************************/
+.Menu1 {
+  width: 500px;
+  height: 500px;  
+}
+.Menu2 {
+  width: 500px;
+  height: 500px;  
+} 
+.Menu3 {
+  width: 500px;
+  height: 500px;  
+}
+
+.LogoImg {
+}
+/**********************************
+Gallery
+***********************************/
+.Gallery {
+  width: 600px;
+  height: 600px; 
+}
+/**********************************
+Contact Us
+***********************************/
+.numberaddress {
+ padding-left: 400px;
+ color: #000000;
+}
+.words {
+  color: #000000;
+  padding-left: 400px;
+  padding-right:200px;
+}
